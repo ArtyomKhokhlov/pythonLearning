@@ -1,0 +1,1 @@
+SELECT * FROM companies ORDER by employees DESC
