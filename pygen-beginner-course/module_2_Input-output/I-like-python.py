@@ -1,7 +1,8 @@
 """
-Напишите программу, которая выводит на экран текст «I***like***Python» (без кавычек).
 
-Примечание. Используйте необязательный параметр sep.
+Write a program that displays the text "I***like***Python" (without quotes) on the screen.
+
+Note: Use the optional sep parameter.
 
 """
 
