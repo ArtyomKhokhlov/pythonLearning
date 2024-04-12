@@ -21,7 +21,7 @@ a^4=a*a*a*a
 
 print("Enter edge length")
 a = int(input())
-V = a * a * a
-S = 6 * a * a
-print("Volume =", V)
-print("Total surface area =", S)
+v = a * a * a
+s = 6 * a * a
+print("Volume =", v)
+print("Total surface area =", s)
