@@ -12,4 +12,5 @@ The program should output the sum of the entered numbers.
 a = int(input())
 b = int(input())
 c = int(input())
+
 print(a + b + c)
