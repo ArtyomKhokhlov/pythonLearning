@@ -1,5 +1,5 @@
 """
-Sum of Three Numbers
+Sum of Three integers
 Write a program that reads three integers and displays their sum on the screen. Each number is written on a separate line.
 
 Input Format
